@@ -1,0 +1,102 @@
+body{
+   margin: 0;
+}
+.Mission-2022{
+    display: flex;
+    margin-bottom: 5%;
+}
+.width{
+    width: 50%;
+    padding-left: 10%;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.width img{
+   width: 50%;
+   padding-left: 10%;
+}
+.button{
+    padding: 10px 40px;
+    background-color: tomato;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 5px;
+}
+.border{
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+}
+.dream-area{
+    display: flex;
+    margin-bottom: 5%;
+}
+.text{
+    text-align: center;
+}
+.dream-item img{
+    width:30%;
+}
+.dream-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.background-no-1{
+    background-color:darkgrey;
+}
+.background-no-2{
+    background-color:beige;
+}
+.background-no-3{
+    background-color:bisque;
+}
+.develop-area{
+    display: flex;
+    margin-bottom: 100px;
+}
+.develope-item-img img{
+    width: 40%;
+    padding-left: 15%;
+}
+.develope-item{
+    width: 50%;
+    padding-right: 15%;
+}
+.global-area{
+    display: flex;
+    margin-bottom: 30px;
+}
+.global-item{
+    width: 50%;
+    padding-left: 10%;
+}
+.global-item-img img{
+    width: 40%;
+    padding-right: 15%;
+}
+.form-bg{
+    padding: 20px;
+    background-color:dimgray;
+}
+.form-area{
+    margin-left: 40%;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+.input{
+    width: 20%;
+    padding: 15px;
+    border-radius: 10px;
+}
